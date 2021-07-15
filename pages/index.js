@@ -16,7 +16,7 @@ export default function Home() {
       <main className={styles.main}>
         <h1 className={styles.title}>Hello World!</h1>
         <p>
-          <Link href="./countryList">
+          <Link href="/countryList">
             <a>Go to second page</a>
           </Link>
         </p>
